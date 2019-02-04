@@ -2,4 +2,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Live version
 
-(https://phones-store-react.netlify.com/details)
+[https://phones-store-react.netlify.com](https://phones-store-react.netlify.com)
