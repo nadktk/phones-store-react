@@ -66,6 +66,6 @@ const ModalContainer = styled.div`
   align-items: center;
   justify-content: center;
   #modal {
-    background: var(--light);
+    background: var(--light-blue);
   }
 `

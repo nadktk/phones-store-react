@@ -2,12 +2,12 @@
   --mainBlue: #353455;
   --blue: #5A7394;
   --beige: #F3E6DC;
-  --light: #B2C8CC;
+  --light-blue: #DEE6E8;
   --red: #E73545;
 }
 body {
   font-family: "Open sans", sans-serif !important;
-  background: var(--light) !important;
+  background: var(--light-blue) !important;
   color: var(--mainBlue) !important;
 }
 .text-title {
@@ -25,7 +25,7 @@ body {
 
 .btn-square:hover {
   background: var(--mainBlue);
-  color: var(--light) !important;
+  color: var(--light-blue) !important;
 }
 
 .btn-square, .btn-square[disabled]:hover {

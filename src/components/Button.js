@@ -4,7 +4,7 @@ export default styled.button`
     text-transform: capitalize;
     border-radius: 5px;
     padding: 5px 15px;
-    border: 2px solid var(--light);
+    border: 2px solid var(--light-blue);
     color: var(--light);
     background: transparent;
     cursor: pointer;
